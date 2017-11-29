@@ -1,0 +1,4 @@
+Base de datos "datos_promesa"
+Tabla  tamiga
+
+Dentro de tabla id,first_name,last_name,image
